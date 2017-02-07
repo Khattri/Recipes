@@ -1,6 +1,6 @@
 Pizza dough
 Pizza sauce (see sauce.txt)
-Cheese
+
 Green peppers
 Mushrooms
 
