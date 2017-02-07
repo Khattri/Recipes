@@ -3,3 +3,7 @@ Pizza sauce (see sauce.txt)
 Cheese
 Green peppers
 Mushrooms
+
+Instructions
+1)Spread dough in pizza pan. Toss it a few times first if you can
+2)Spread sauce evenly over the dough.
