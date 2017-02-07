@@ -1,3 +1,3 @@
 Pizza dough
-Pizza sauce
+Pizza sauce (see sauce.txt)
 Cheese
